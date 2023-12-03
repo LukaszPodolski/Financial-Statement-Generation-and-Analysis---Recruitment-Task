@@ -2,37 +2,36 @@
 Below is the content of a recruitment task that I received to solve during one of the recruitment processes.
 To download the Excel file with the solution to the task: Exercise_solution_Łukasz_Podolski.xlsx
 It should be noted that there are several inconsistencies in the task that distort the solution, including:
-
-Lack of information on tax depreciation;
-Lack of information on the deadlines for the transfer to Capex assets and its depreciation;
-Lack of information on whether investment expenditures are incurred at the same time;
-The entire production is sold in a given year (no inventory?).
+- Lack of information on tax depreciation;
+- Lack of information on the deadlines for the transfer to Capex assets and its depreciation;
+- Lack of information on whether investment expenditures are incurred at the same time;
+- The entire production is sold in a given year (no inventory?).
 
 -------------- RECRUITMENT TASK-----------------
-Based on the information below, please prepare a balance sheet, profit and loss statement, and cash flow using the indirect method.
+1) Based on the information below, please prepare a balance sheet, profit and loss statement, and cash flow using the indirect method.
 a. Opening balance as follows:
 
-Fixed assets [PLN] 7,000,000
-Current assets [PLN] 3,500,000
-Cash [PLN] 2,000,000
-Receivables [PLN] 1,500,000
-ASSETS [PLN] 10,500,000
-
-Equity [PLN] 5,000,000
-Share capital [PLN] 2,000,000
-Profits/losses from previous years [PLN] 2,500,000
-Current year profits/losses [PLN] 500,000
-
-Long-term liabilities [PLN] 0
-
-Short-term liabilities [PLN] 5,500,000
-Salaries [PLN] 400,000
-Liabilities from deliveries and services [PLN] 2,500,000
-Liabilities from tangible fixed assets [PLN] 2,500,000
-VAT liabilities [PLN] 100,000
-Loans -
-
-LIABILITIES [PLN] 10,500,000
+	Fixed assets [PLN] 7,000,000
+	Current assets [PLN] 3,500,000
+	Cash [PLN] 2,000,000
+	Receivables [PLN] 1,500,000
+	ASSETS [PLN] 10,500,000
+	
+	Equity [PLN] 5,000,000
+	Share capital [PLN] 2,000,000
+	Profits/losses from previous years [PLN] 2,500,000
+	Current year profits/losses [PLN] 500,000
+	
+	Long-term liabilities [PLN] 0
+	
+	Short-term liabilities [PLN] 5,500,000
+	Salaries [PLN] 400,000
+	Liabilities from deliveries and services [PLN] 2,500,000
+	Liabilities from tangible fixed assets [PLN] 2,500,000
+	VAT liabilities [PLN] 100,000
+	Loans -
+	
+	LIABILITIES [PLN] 10,500,000
 
 b. Macro and operational assumptions:
 
@@ -56,8 +55,8 @@ MZP costs in year (t) 3,000,000 PLN
 CAPEX expenditures in year (t) 3,000,000 PLN
 Salaries in year (t) 3,000,000 PLN
 
-Based on the prepared report, please calculate and interpret the indicators:
-EBIT, EBITDA, Net debt, Current liquidity ratio, Quick liquidity ratio, ROE, ROA
+2) Based on the prepared report, please calculate and interpret the indicators:
+   EBIT, EBITDA, Net debt, Current liquidity ratio, Quick liquidity ratio, ROE, ROA
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
