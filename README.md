@@ -1,6 +1,6 @@
 # Recruitment Task
 Below is the content of a recruitment task that I received to solve during one of the recruitment processes.
-To download the Excel file with the solution to the task: Exercise_solution_Łukasz_Podolski.xlsx
+	To download the Excel file with the solution to the task: Exercise_solution_Łukasz_Podolski.xlsx
 It should be noted that there are several inconsistencies in the task that distort the solution, including:
 	- Lack of information on tax depreciation;
 	- Lack of information on the deadlines for the transfer to Capex assets and its depreciation;
