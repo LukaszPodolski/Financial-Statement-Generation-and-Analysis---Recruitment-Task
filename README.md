@@ -35,25 +35,25 @@ a. Opening balance as follows:
 
 b. Macro and operational assumptions:
 
-Each period is 12 months.
-Annual inflation of 2.5% starting from period t+1.
-Production is constant throughout the year.
-Forecasted production growth (in units) is 10% YoY.
-Cost structure of material production security (MZP) – 60% fixed costs, 40% variable costs.
-Variable costs of MZP increase proportionally to production.
-Depreciation 20%.
-Assets on the opening balance sheet are amortized at 20%.
-Receivables are recovered after 30 days.
-Liabilities are settled after 90 days.
-CAPEX expenditures are constant in subsequent years.
-Salaries increase by 5% YoY.
-For simplicity, the payroll settlement cycle with overheads is assumed to be 30 days.
-In year (t), a loan of PLN 1,000,000 was obtained with an annual depreciation of PLN 250,000 starting from period 2, a commitment fee of PLN 15,000, cost calculated at an average commitment of 6.5% annually.
-PRODUCTION in year (t) 3,000,000 units
-Price per unit 3.20 PLN
-MZP costs in year (t) 3,000,000 PLN
-CAPEX expenditures in year (t) 3,000,000 PLN
-Salaries in year (t) 3,000,000 PLN
+-Each period is 12 months.
+-Annual inflation of 2.5% starting from period t+1.
+-Production is constant throughout the year.
+-Forecasted production growth (in units) is 10% YoY.
+-Cost structure of material production security (MZP) – 60% fixed costs, 40% variable costs.
+-Variable costs of MZP increase proportionally to production.
+-Depreciation 20%.
+-Assets on the opening balance sheet are amortized at 20%.
+-Receivables are recovered after 30 days.
+-Liabilities are settled after 90 days.
+-CAPEX expenditures are constant in subsequent years.
+-Salaries increase by 5% YoY.
+-For simplicity, the payroll settlement cycle with overheads is assumed to be 30 days.
+-In year (t), a loan of PLN 1,000,000 was obtained with an annual depreciation of PLN 250,000 starting from period 2, a commitment fee of PLN 15,000, cost calculated at an average commitment of 6.5% annually.
+-PRODUCTION in year (t) 3,000,000 units
+-Price per unit 3.20 PLN
+-MZP costs in year (t) 3,000,000 PLN
+-CAPEX expenditures in year (t) 3,000,000 PLN
+-Salaries in year (t) 3,000,000 PLN
 
 2) Based on the prepared report, please calculate and interpret the indicators:
    EBIT, EBITDA, Net debt, Current liquidity ratio, Quick liquidity ratio, ROE, ROA
