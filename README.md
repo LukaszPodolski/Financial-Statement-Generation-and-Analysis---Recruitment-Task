@@ -112,11 +112,11 @@ b.	Założenia makro i założenia operacyjne
   -	dla uproszczenia przyjmuje się cykl rozliczeniowy wynagrodzeń z narzutami 30 dni
   -	w roku (t) pozyskano kredyt 1 000 000 PLN z amortyzacją roczną 250 000 PLN począwszy od 2 okresu,  prowizja angażująca 15 000 PLN, koszt liczony od średniego zaangażowania 6,5% rocznie
 
-PRODUKCJA w roku (t)		3 000 000 sztuk
-Cena zł/sztukę 			          3,20 PLN
-Koszty MZP w roku (t)		3 000 000 PLN
-Nakłady na CAPEX w roku (t) 	3 000 000 PLN
-Wynagrodzenia w roku (t) 		3 000 000 PLN
+	-PRODUKCJA w roku (t)		3 000 000 sztuk
+	-Cena zł/sztukę 			          3,20 PLN
+	-Koszty MZP w roku (t)		3 000 000 PLN
+	-Nakłady na CAPEX w roku (t) 	3 000 000 PLN
+	-Wynagrodzenia w roku (t) 		3 000 000 PLN
 
 2)	Na podstawie sporządzonego sprawozdania proszę skalkulować i zinterpretować wskaźniki:
 EBIT, EBITDA, Dług netto, wsk. płynności bieżącej i wsk. płynności szybki, ROE, ROA
