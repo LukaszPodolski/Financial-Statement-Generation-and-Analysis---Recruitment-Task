@@ -8,7 +8,7 @@ It should be noted that there are several inconsistencies in the task that disto
 - The entire production is sold in a given year (no inventory?).
 
 -------------- RECRUITMENT TASK-----------------
-1) Based on the information below, please prepare a balance sheet, profit and loss statement, and cash flow using the indirect method.
+1) Based on the information below, please prepare a balance sheet, profit and loss statement, and cash flow using the indirect method.<br>
 a. Opening balance as follows:
 
 	- Fixed assets [PLN] 7,000,000
@@ -33,7 +33,7 @@ a. Opening balance as follows:
 		
 	- LIABILITIES [PLN] 10,500,000
 
-b. Macro and operational assumptions:
+b. Macro and operational assumptions:<br>
 
 	-Each period is 12 months.
 	-Annual inflation of 2.5% starting from period t+1.
@@ -55,7 +55,7 @@ b. Macro and operational assumptions:
 	-CAPEX expenditures in year (t) 3,000,000 PLN
 	-Salaries in year (t) 3,000,000 PLN
 
-2) Based on the prepared report, please calculate and interpret the indicators:
+2) Based on the prepared report, please calculate and interpret the indicators:<br>
    EBIT, EBITDA, Net debt, Current liquidity ratio, Quick liquidity ratio, ROE, ROA
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
